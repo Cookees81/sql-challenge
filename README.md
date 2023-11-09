@@ -12,3 +12,5 @@ Followed directions and used QuickDBD to format database tables.
 Exported to SQL and table created.
 Deleted (Cascade) each table to practice writing out the query for tables manually. 
 Created tables in sequence and wrote Foreign Keys code from SQL activity 3.03 - Intro to Foreign Keys.
+Watched YouTube video by Caleb Curry, SQL Server 28 - Composite Primary Keys to obtain code for Primary Keys.
+Saved result as "writtencode" to same folder as QuickDBD- export in EmployeeSQL folder.
